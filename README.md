@@ -1,4 +1,4 @@
-# Wordle-rs (Cyrylic)
+# Wordle-rs (Cyrillic)
 
 Ova aplikacija predstavlja srpsku verziju popularne igre Wordle, prilagođenu korišćenju ćiriličnog rečnika. Korisnici mogu uživati u izazovu pogađanja nasumično odabrane reči određene dužine.
 
